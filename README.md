@@ -1,9 +1,9 @@
 Wiring set up: 
-wire the IR module - 
+wire the IR module.
 GND - ground
 VCC - 5V 
 DAT - GPIO10 
-Wire press button - 
+Wire press button.
 GND - Ground 
-GPIO 8 (leave 9 free) 
+other leg to GPIO 8 (leave 9 free) 
 upload code with world ir codes in the same folder 
