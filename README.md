@@ -1,3 +1,4 @@
+Fire and forget IR Blaster set up...
 Wiring set up: 
 wire the IR module.
 GND - ground
